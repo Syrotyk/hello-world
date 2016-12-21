@@ -1,2 +1,3 @@
 # hello-world
-Just a little start project
+
+I am Syrotyk/ I like JS.
